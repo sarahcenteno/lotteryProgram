@@ -2,7 +2,7 @@
 This project was completed for my Computer Science I course. I have developed a program that implements dynamic memory allocation to find the winners of the lottery. To do so, the program will read an input text file of all the players participating in the lottery and their lottery numbers. Then, through dynamic memory allocation, it will check to see which players have matching lottery numbers and determine their winnings. It will print out those results into an output text file. 
 
 # Getting Started
-To implement this program, you can either create your own input text file of the players and their lottery numbers or you can use the one provided. To create your own input text file it must have the following format:
+To implement this program, you can either create your own input text file of the players and their lottery numbers or you can use the one provided. To create your own input text file it must have the following format:<br/>
 10<br/>
 Swift Taylor<br/>
 3 18 25 34 35 48<br/>
